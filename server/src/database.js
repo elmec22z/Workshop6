@@ -1,3 +1,5 @@
+//All set yayyyy :D
+
 // Data goes here.
 var initialData = {
   // The "user" collection. Contains all of the users in our Facebook system.
