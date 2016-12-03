@@ -1,4 +1,4 @@
-//All set yayyyy :D
+//All set :D
 
 // Data goes here.
 var initialData = {

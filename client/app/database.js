@@ -210,3 +210,4 @@ export class ResetDatabase extends React.Component {
     );
   }
 }
+module.exports.readDocument = readDocument;
